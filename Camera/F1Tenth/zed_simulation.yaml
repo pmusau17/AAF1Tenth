@@ -1,0 +1,15 @@
+publication_topics: 
+  - ${racecar_name}/camera/zed/parameter_descriptions
+  - ${racecar_name}/camera/zed/parameter_updates
+  - ${racecar_name}/camera/zed/rgb/camera_info
+  - ${racecar_name}/camera/zed/rgb/image_rect_color
+  - ${racecar_name}/camera/zed/rgb/image_rect_color/compressed
+  - ${racecar_name}/camera/zed/rgb/image_rect_color/compressed/parameter_descriptions
+  - ${racecar_name}/camera/zed/rgb/image_rect_color/compressed/parameter_updates
+
+publication types:
+  - sensor_msgs/Image
+  - sensor_msgs/CameraInfo
+
+execution_rate: 20 hz
+image_shape: (480,640,3)

@@ -1,0 +1,51 @@
+node_name: zed-ros-wrapper
+launch_file: roslaunch zed_wrapper zed.launch
+publication_topics: 
+  - rgb/image_rect_color
+  - rgb/image_rect_gray
+  - rgb/camera_info
+  - rgb_raw/image_raw_color
+  - rgb_raw/image_raw_gray
+  - rgb_raw/camera_info
+  - left/image_rect_color
+  - left/image_rect_gray 
+  - left/camera_info
+  - left_raw/image_raw_color
+  - left_raw/image_raw_gray
+  - left_raw/image_raw_gray
+  - right/image_rect_color
+  - right/image_rect_gray
+  - right/camera_info
+  - right_raw/image_raw_color
+  - right_raw/image_raw_gray
+  - right_raw/camera_info
+  - stereo/image_rect_color
+  - stereo_raw/image_raw_color
+  - depth/depth_registered
+  - depth/camera_info
+  - point_cloud/cloud_registered
+  - confidence/confidence_map
+  - disparity/disparity_image
+  - odom
+  - pose 
+  - pose_with_covariance
+  - path_odom
+  - path_map
+  - mapping/fused_cloud
+publication types:
+  - sensor_msgs/Image
+  - sensor_msgs/CameraInfo
+  - sensor_msgs/PointCloud2
+  - stereo_msgs/DisparityImage
+  - nav_msgs/Odometry
+  - geometry_msgs/PoseStamped
+  - geometry_msgs/PoseWithCovarianceStamped
+  - nav_msgs/Path
+
+parameter_files: 
+  - params/common.yaml
+  - params/zed.yaml
+
+
+
+

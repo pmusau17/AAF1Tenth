@@ -1,4 +1,3 @@
-node_name: hokuyo_node
-publication_topics: /scan
+publication_topics: racecar/scan
 publication_type: sensor_msgs/LaserScan
 execution_rate: 40 hz
