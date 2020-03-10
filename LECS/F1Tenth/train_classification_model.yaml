@@ -1,0 +1,9 @@
+model_output_directory: models
+data_directory: data
+source_file: train_classification_model.py
+architechture: nn/conv/minivggnet.py
+arguments: ${dataset}, ${output_directory}
+num_epochs: 200
+decay: 0.01/num_epochs
+momentum: 0.9
+nesterov: True

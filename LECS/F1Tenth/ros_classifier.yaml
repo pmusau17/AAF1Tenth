@@ -1,0 +1,8 @@
+subscription_topics: ${racecar_name}+'/camera/zed/rgb/image_rect_color'
+subscription_topic_types: sensor_msgs/Image
+published_topics: ${racecar_name}+'/drive_parameters'
+publication_topic_types: drive_param
+execution_rate: '20 hz'
+model_directory: models
+source_file: ros_classifier.py
+arguments: ${racecar_name}
