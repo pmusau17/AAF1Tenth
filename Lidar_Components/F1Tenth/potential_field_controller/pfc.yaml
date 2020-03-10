@@ -1,0 +1,7 @@
+subscription_topics: ${racecar_name}+'/scan'
+subscription_topic_types: sensor_msgs/LaserScan
+published_topics: ${racecar_name}+'/drive_parameters'
+publication_topic_types: drive_param
+execution_rate: '40 hz'
+source_file: pfc.py
+arguments: None
