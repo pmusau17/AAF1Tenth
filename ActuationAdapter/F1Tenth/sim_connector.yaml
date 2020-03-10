@@ -1,0 +1,8 @@
+
+subscription_topics: ${racecar_name}+'/drive_parameters'
+subscription_topic_types: drive_param
+published_topics: ${vesc_name}+'/ackermann_cmd_mux/input/teleop'
+publication_topic_types: ackermann_msgs/AckermannDriveStamped 
+execution_rate: '40 hz'
+source_file: sim_connector_gen.py
+arguments: ${racecar_name}, ${vesc_name}
