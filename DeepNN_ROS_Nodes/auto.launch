@@ -1,0 +1,9 @@
+<launch>
+  <node name="Camera_Node" pkg="ros_trial" type="Camera_Node.py"/>
+  <node name="Speed_Node" pkg="ros_trial" type="Speed_Node.py"/>
+  <node name="Buffer_Node" pkg="ros_trial" type="Buffer_Node.py"/>
+  <node name="LEC_Node" pkg="ros_trial" type="LEC_Node.py"/>
+  <node name="SS_Node" pkg="ros_trial" type="SS_Node.py"/>
+  <node name="RL_Node" pkg="ros_trial" type="RL_Node.py"/>
+  <node name="DM_Node" pkg="ros_trial" type="DM_Node.py"/>
+</launch>
