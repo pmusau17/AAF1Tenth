@@ -1,1 +1,4 @@
-
+node_name: Lidar Node
+publication_topics: /scan
+publication_type: sensor_msgs/LaserScan
+execution_rate: 
