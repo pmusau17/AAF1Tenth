@@ -1,1 +1,6 @@
+node_name: Camera Node
+published_topics:
+publication_topic_types: sensor_msgs/Images
+execution_rate: '10 hz'
+source_file: Camer_Node.py
 
