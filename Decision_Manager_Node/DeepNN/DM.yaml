@@ -1,3 +1,4 @@
+node name: DM Node
 subscription_topics: drive_parameters
 published_topics: pwm_dutycycle
 source_file: DM_Node.py
