@@ -1,1 +1,5 @@
-
+node_name: Speed Node
+publication_topics: Speed
+publication_type: Float32
+execution_rate: 10 Hz
+source_file: Speed_Node.py
