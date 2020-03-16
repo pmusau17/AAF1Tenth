@@ -4,4 +4,4 @@
 
 [Simulator](https://github.com/pmusau17/AAF1Tenth/tree/master/Simulator): Has all the files required to run an end-to-end experiment off the toolchain.
 
-[Training](https://github.com/pmusau17/AAF1Tenth/tree/master/training): Has google colab notebooks and python scripts to train LECs
+[Training](https://github.com/pmusau17/AAF1Tenth/tree/master/Training): Has google colab notebooks and python scripts to train LECs
