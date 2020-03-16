@@ -2,7 +2,7 @@
 
 ![Block Diagram](https://github.com/pmusau17/AAF1Tenth/blob/master/images/block1.png)
 
-**Updates**
+**Updates (03/16/2020)**
 
 (1) Components for the F1/10 simulator have been tested and can be integrated with the toolchain.
 
