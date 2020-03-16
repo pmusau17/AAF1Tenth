@@ -1,1 +1,1 @@
-##This Directory has scripts to train an LEC
+#This Directory has scripts to train an LEC
