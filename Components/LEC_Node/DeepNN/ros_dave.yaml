@@ -1,5 +1,5 @@
 node name: LEC Node
-subscription_topics: 
+subscription_topics: Image
 subscription_topic_types: sensor_msgs/Image
 published_topics: drive_parameters
 publication_topic_types: drive_param
