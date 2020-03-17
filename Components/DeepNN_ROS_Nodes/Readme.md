@@ -1,6 +1,6 @@
 # ROS Components for DeepNNCar. Will require some testing 
 
-**Launch instructions** (Needs to be updated during testing)
+**Launch instructions** (Updated and elaborate instructions will be added during testing)
 
 ```
 cd catkin_ws
