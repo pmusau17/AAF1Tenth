@@ -1,11 +1,10 @@
-# ROS Components for DeepNNCar. Will require some testing 
+# ROS Components for DeepNNCar.
 
-**Launch instructions** (Updated and elaborate instructions will be added during testing)
+**Launch instructions**
 
 ```
 cd catkin_ws
 catkin_make
 source devel/setup.bash
-roscore
-auto.launch
+roslaunch deepnncar_components auto.launch
 ```
