@@ -2,7 +2,7 @@
 
 ![Block Diagram](https://github.com/pmusau17/AAF1Tenth/blob/master/images/tutorial.png)
 
-** 5 components nodes for the tutorial **
+**5 components nodes for the tutorial**
 
 1) Camera Node
 2) Speed Node
