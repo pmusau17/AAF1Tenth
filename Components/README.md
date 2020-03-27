@@ -4,11 +4,11 @@
 
 ** 5 components nodes for the tutorial **
 
-1) Camera Node\
-2) Speed Node\
-3) LEC Node\
-4) Decision Manager Node\
-5) Actuation Adapter Node\
+1) Camera Node
+2) Speed Node
+3) LEC Node
+4) Decision Manager Node
+5) Actuation Adapter Node
 
 **Updates (03/27/2020)**
 
