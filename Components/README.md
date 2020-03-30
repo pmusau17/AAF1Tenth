@@ -1,6 +1,6 @@
 # Component Library for F1Tenth and DeepNNCar
 
-![Block Diagram](https://github.com/pmusau17/AAF1Tenth/blob/master/images/tutorial.png)
+![Block Diagram](https://github.com/pmusau17/AAF1Tenth/blob/master/images/e2e-tutorial.png)
 
 **5 components nodes for the tutorial**
 
