@@ -10,8 +10,8 @@
 4) Decision Manager Node
 5) Actuation Adapter Node
 
-**Updates (03/27/2020)**
+**Updates (03/30/2020)**
 
 (1) Components for the F1/10 simulator have been tested and can be integrated with the toolchain.
 
-(2) synchronizing ros topics of F1/10 simulator and DeepNNCar.
+(2) ros topics of F1/10 simulator and DeepNNCar are synchronized. 
